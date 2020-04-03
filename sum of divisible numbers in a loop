@@ -1,0 +1,9 @@
+func solution(_ num: Int) -> Int {
+    var sum = 0
+    for value in 1..<num{
+        if(value%3 == 0 || value%5 == 0){
+          sum = sum + value
+        }
+    }
+  return sum
+}
