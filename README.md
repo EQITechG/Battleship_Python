@@ -20,7 +20,7 @@ Simply run the code on any IDE of choice
 
 The game is between the player and the computer which selects random co-ordinate point in the board, if the player gets 4 turns to guess the right row and column selected, then the win else, they lose the game. The computer's selection is being printed on the console for debug purposes, but can be commented out for real simulation
 
-###Happpy Playing###
+###Happy Playing###
 
 
 Created by Gabriel Copyright 2018
